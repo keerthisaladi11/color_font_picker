@@ -1,0 +1,207 @@
+body
+{
+    background-color: skyblue;
+}
+h2{
+    border: 1px solid black;
+    height:300px;
+    width:auto;
+    margin-left: 90px;
+    margin-right: 90px;
+    display: flex;
+    background-color: lightblue;
+}
+.text:hover{
+    background-color: lightsteelblue;
+    box-shadow: black;
+}
+.colors:hover {
+    box-shadow: 0px 0px 20px rgb(75, 75, 151);
+    height: 2.4rem;
+    width: 2.4rem;
+}
+.fontColors{
+    background-color: lightblue;
+    border: 1px solid black;
+    width: 500px;
+    padding:10px;
+    padding-top: 50px;
+    margin: 10px;
+}
+.fontColors:hover{
+    background-color: lightsteelblue;
+}
+.bgcolors
+{
+    border: 1px solid black;
+    background-color: lightblue;
+    width: 500px;
+    padding:10px;
+    padding-top: 50px;
+    margin: 10px;
+}
+.bgcolors:hover{
+    background-color: lightsteelblue;
+}
+.colors{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.font_style{
+    border: 1px solid black;
+    background-color: lightblue;
+    width: 1050px;
+    padding:10px;
+    padding-top: 25px;
+    margin: 10px;
+}
+.font_style:hover{
+    background-color: lightsteelblue;
+}
+.fonts:hover {
+    width: 10%;
+    background-color: black;
+    color: white;
+    box-shadow:  blue;
+}
+
+.fonts
+{
+    border: 1px solid black;
+    display: inline-block;
+    width: 70px;
+    height: auto;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.colorContainer
+{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+.fontContainer{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    height: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#color1,#bgcolor1{
+    background-color: red;
+}
+#color2,#bgcolor2
+{
+    background: yellow;
+}
+#color3,#bgcolor3
+{
+    background-color: green;
+}
+#color4,#bgcolor4
+{
+    background-color: blue;
+}
+#color5,#bgcolor5
+{
+    background-color: aqua;
+}
+#color6,#bgcolor6
+{
+    background-color: blueviolet;
+}
+#color7,#bgcolor7
+{
+    background-color: brown;
+}
+#color8,#bgcolor8
+{
+    background-color: burlywood;
+}
+#color9,#bgcolor9
+{
+    background-color: cadetblue;
+}
+#color10,#bgcolor10
+{
+    background-color: chartreuse;
+}
+#color11,#bgcolor11
+{
+    background-color: chocolate;
+}
+#color12,#bgcolor12
+{
+    background-color: cornflowerblue;
+}
+#color13,#bgcolor13
+{
+    background-color: cyan;
+}
+#color14,#bgcolor14
+{
+    background-color: darkcyan;
+}
+#color15,#bgcolor15
+{
+    background-color: darkgreen;
+}
+
+#font1
+{
+    font-family: "Times New Roman";
+}
+#font2{
+    font-family: 'Roboto'
+}
+#font3{
+    font-family: 'Courier New';
+}
+#font4{
+    font-family: 'cursive';
+}
+#font5{
+    font-family: 'Verdana';
+}
+#font6{
+    font-family: 'Impact';
+}
+#font7{
+    font-family: 'Arial';
+}
+#font8{
+    font-family: 'Georgia';
+}
+#font9{
+    font-family: "serif";
+}
+#font10{
+    font-family: "sans-serif";
+}
+#font11{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#font12{
+    font-family: "Courier";
+}
+#font13{
+    font-family: "Helvetica"
+}
+#font14
+{
+    font-family: serif;
+}
+
+
+
+
